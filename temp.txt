@@ -1,0 +1,12 @@
+# MongoDB Configuration
+MONGO_URI=mongodb+srv://nk887640:JuUf6p4fODjfUkbF@genshin.j6poo.mongodb.net/?retryWrites=true&w=majority&appName=Genshin
+
+# Cloudinary Configuration
+CLOUDINARY_CLOUD_NAME=dtfofiffw
+CLOUDINARY_API_KEY=842283918965937
+CLOUDINARY_API_SECRET=k5roYN94o82uBf3OGCFZZ6lPGN8
+
+# Server Configuration
+PORT=8000
+
+API_KEY=noushadkhanyt
